@@ -38,6 +38,8 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotgames
 
 * [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
+* [LickMyRunes](https://github.com/Ponita0/LickMyRunes) - Automatically import runes for your picked champion from OP.GG
+
 * [LolAV](https://github.com/PixelHir/lolav) - Desktop app that will allow you to set a one of hidden tencent icons for your profile.
 
 * [Mimic](http://mimic.molenzwiebel.xyz/) - Allows you to control your client from your phone.
